@@ -31,3 +31,8 @@
 :focus {
   outline: none;
 } */
+
+:focus {
+  border: 2px solid black;
+  border-radius: 5px;
+}
